@@ -55,7 +55,7 @@
             </div>
         </div>
 
-        {{--<div class="row">
+        <div class="row">
             <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center">
                 <div class="text-center text-lg-start py-2">
                     <h2 class="pb-3 text-dark">Nuestro Semillero</h2>
@@ -72,7 +72,7 @@
             <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center">
                 @include('adminlte::partials.common.carousel')
             </div>
-        </div>--}}
+        </div>
     </section>
 
     <footer class="text-center py-4 bg-light">
